@@ -1,4 +1,4 @@
-# ntu auto sign discord bot
+# auto sign discord bot
 
 ## Project Overview
 
